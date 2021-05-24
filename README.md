@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vickxy&show_icons=true&theme=gotham" alt="Vikesh Yadav | Stats" />
+
+</details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{vickxy}/count.svg)
